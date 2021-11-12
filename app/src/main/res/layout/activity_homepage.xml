@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Homepage"
+    android:background="@drawable/gradient_bck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        
+<!--        1st card-->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/backicon"
+                android:padding="15dp"
+                android:layout_centerVertical="true"/>
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/searchicon"
+                android:padding="15dp"
+                android:layout_centerVertical="true"
+
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Activities"
+            android:textSize="25sp"
+            android:textColor="@color/black"
+            android:textAllCaps="true"
+            android:fontFamily="@font/alegreya"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="160dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/catbck"
+                android:layout_margin="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/alegreya"
+                    android:padding="25dp"
+                    android:text="Breathing Exercises"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/breathebtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:text="Start"
+                    android:fontFamily="@font/alegreya"/>
+
+
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/meditationicon"
+
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+<!--        2nd card-->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="130dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/catbck2">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:src="@drawable/bookicon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:fontFamily="@font/alegreya"
+                android:padding="25dp"
+                android:text="Reading Exercises"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="#00000000"
+                android:padding="20dp"
+                android:text="Start"
+                android:textColor="@color/black"
+                android:layout_alignParentRight="true"
+                android:fontFamily="@font/alegreya"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="160dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/catbck3"
+                android:layout_margin="20dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="25dp"
+                    android:text="Auditory Feedback"
+                    android:fontFamily="@font/alegreya"
+                    android:textColor="@color/white"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:background="#00000000"
+                    android:padding="20dp"
+                    android:text="Start"
+                    android:fontFamily="@font/alegreya"/>
+
+
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/headphonesicon"
+
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>
