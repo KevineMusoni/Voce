@@ -10,6 +10,7 @@ import android.widget.Button;
 public class Homepage extends AppCompatActivity {
 
     Button button;
+    Button button3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,10 +18,20 @@ public class Homepage extends AppCompatActivity {
         setContentView(R.layout.activity_homepage);
 
         button = findViewById(R.id.breathebtn);
+        button3 = findViewById(R.id.audiobtn);
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Homepage.this, Breathe.class);
+                startActivity(intent);
+            }
+        });
+
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Homepage.this, Audio.class);
                 startActivity(intent);
             }
         });

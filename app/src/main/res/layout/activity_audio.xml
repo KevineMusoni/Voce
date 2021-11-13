@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:ems="10"
-        android:hint="Enter Factor"
+        android:hint="Enter Number of Devices"
         android:inputType="number"
         android:layout_centerHorizontal="true"/>
 
