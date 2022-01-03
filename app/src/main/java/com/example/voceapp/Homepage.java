@@ -11,6 +11,7 @@ public class Homepage extends AppCompatActivity {
 
     Button button;
     Button button3;
+    Button button4;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +20,7 @@ public class Homepage extends AppCompatActivity {
 
         button = findViewById(R.id.breathebtn);
         button3 = findViewById(R.id.audiobtn);
+        button4 = findViewById(R.id.readbtn);
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -32,6 +34,13 @@ public class Homepage extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Homepage.this, Audio.class);
+                startActivity(intent);
+            }
+        });
+        button4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Homepage.this, Read.class);
                 startActivity(intent);
             }
         });
