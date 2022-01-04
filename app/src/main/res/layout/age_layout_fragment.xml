@@ -3,6 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
     <RadioGroup
         android:id="@+id/radiogroup"
         android:layout_width="wrap_content"
@@ -16,8 +17,9 @@
             android:text="Below 18"
             android:textSize="18sp"
             android:fontFamily="@font/alegreya"
-            android:onClick="checkButton"
-            android:checked="true"/>
+            android:onClick="checkButton"/>
+<!--            android:checked="true"-->
+
         <RadioButton
             android:id="@+id/a_age"
             android:layout_width="wrap_content"
@@ -26,15 +28,16 @@
             android:textSize="18sp"
             android:fontFamily="@font/alegreya"
             android:onClick="checkButton"/>
-        <Button
-            android:id="@+id/btn_age"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Apply"
-            android:textColor="@color/black"
-            android:fontFamily="@font/alegreya"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="45dp"/>
+
+<!--        <Button-->
+<!--            android:id="@+id/btn_apply"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Apply"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:fontFamily="@font/alegreya"-->
+<!--            android:layout_centerHorizontal="true"-->
+<!--            android:layout_marginTop="45dp"/>-->
 
     </RadioGroup>
 

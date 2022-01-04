@@ -11,6 +11,7 @@
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/usericon.xml" value="0.2203125" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/vie_bg.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_above.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_age_fragment.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_audio.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_breathe.xml" value="0.1" />
@@ -20,8 +21,9 @@
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_signin.xml" value="0.25" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_signup.xml" value="0.16748768472906403" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/age_fragment.xml" value="0.1" />
-        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/age_layout_fragment.xml" value="0.25" />
-        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/type_layout_fragment.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/age_layout_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/dropdown_item.xml" value="0.20051282051282052" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/type_layout_fragment.xml" value="0.1" />
       </map>
     </option>
   </component>

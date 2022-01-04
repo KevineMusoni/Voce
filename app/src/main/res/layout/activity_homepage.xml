@@ -47,7 +47,7 @@
             android:fontFamily="@font/alegreya"/>
 
         <!--1st card-->
-        
+
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="160dp">
@@ -90,7 +90,7 @@
                 android:layout_alignParentRight="true"/>
         </RelativeLayout>
 
-<!--        2nd card-->
+<!--       2nd card-->
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -128,6 +128,7 @@
 
         </RelativeLayout>
 
+<!--        3rd card-->
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="160dp">

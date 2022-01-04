@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VoceApp">
         <activity
+            android:name=".above"
+            android:exported="true" />
+        <activity
+            android:name=".below"
+            android:exported="true" />
+        <activity
             android:name=".Read"
             android:exported="true" />
         <activity

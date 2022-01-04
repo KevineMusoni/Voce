@@ -3,4 +3,10 @@
     <string name="hello">Hello</string>
     <string name="signup_title">Create account</string>
     <string name="email_placeholder">youremail@gmail.com</string>
+
+    <string-array name="types">
+        <item>Developmental Stuttering</item>
+        <item>Neurogenic Stuttering</item>
+        <item>Psychogenic Stuttering</item>
+    </string-array>
 </resources>
