@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable-v24/edit_textbck.xml" value="0.2203125" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/bgicon.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/catbck.xml" value="0.1787037037037037" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/catbck2.xml" value="0.2203125" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/drawable/catbck3.xml" value="0.2203125" />
@@ -14,6 +15,7 @@
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_above.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_age_fragment.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_audio.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_below.xml" value="0.22" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_breathe.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_main.xml" value="0.22" />

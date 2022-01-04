@@ -35,6 +35,7 @@ public class age_layout_fragment extends Fragment {
 //                        open above age read activity
                         Intent intentTwo = new Intent(getActivity(), above.class);
                         startActivity(intentTwo);
+
                 }
             }
         });

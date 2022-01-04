@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VoceApp">
         <activity
+            android:name=".BookOne"
+            android:exported="true" />
+        <activity
             android:name=".above"
             android:exported="true" />
         <activity
