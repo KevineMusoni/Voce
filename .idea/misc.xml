@@ -15,17 +15,19 @@
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_above.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_age_fragment.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_audio.xml" value="0.1" />
-        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_below.xml" value="0.22" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_below.xml" value="0.25" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_book_one.xml" value="0.25" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_breathe.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_homepage.xml" value="0.22" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_read.xml" value="0.22" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_signin.xml" value="0.25" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_signup.xml" value="0.16748768472906403" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/age_fragment.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/age_layout_fragment.xml" value="0.1" />
         <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/dropdown_item.xml" value="0.20051282051282052" />
-        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/type_layout_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/AndroidStudioProjects/VoceApp/app/src/main/res/layout/type_layout_fragment.xml" value="0.18" />
       </map>
     </option>
   </component>

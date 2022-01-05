@@ -6,6 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
+
+import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 public class type_layout_fragment extends Fragment {
@@ -24,5 +26,12 @@ public class type_layout_fragment extends Fragment {
         spinner.setAdapter(adapter);
 
         return view;
+    }
+    @Override
+    public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+
+        super.onActivityCreated(savedInstanceState);
+
+
     }
 }

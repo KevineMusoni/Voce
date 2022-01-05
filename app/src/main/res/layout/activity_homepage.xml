@@ -21,15 +21,16 @@
             <ImageView
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:src="@drawable/backicon"
-                android:padding="15dp"
+                android:src="@drawable/ic_back"
+                android:padding="10dp"
                 android:layout_centerVertical="true"/>
 
             <ImageView
+                android:id="@+id/profile_btn"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
-                android:src="@drawable/searchicon"
-                android:padding="15dp"
+                android:src="@drawable/ic_person"
+                android:padding="5dp"
                 android:layout_centerVertical="true"
 
                 android:layout_alignParentRight="true"/>
